@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  background-image: url("wp6495925.jpeg");
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-image: url("red-tropical-sunset-wallpaper-preview.jpeg");
+}
+
+.green {
+  background-image: url("photo-1596324121712-5bbc14482174.jpeg");
+}
+
+.blue {
+  /* background-image: url("istockphoto-1219768635-612x612.jpeg"); */
+  background-color: blue;
+}
+
+.yellow {
+  background-image: url("12cfa5c8af21dcd0446be11335256c37.jpeg");
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
